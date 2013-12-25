@@ -1,0 +1,8 @@
+main: net.minekingdom.hubcommand.HubCommand
+name: HubCommand
+version: 1.0
+
+commands:
+   hub:
+      description: Returns the Player to the hub
+      usage: /hub
